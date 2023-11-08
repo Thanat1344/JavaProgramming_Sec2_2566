@@ -1,0 +1,5 @@
+Student_ID : 2313110435
+Studen Name : Thanat
+Major : IT
+Level : 1
+Faculty : Information Technology
